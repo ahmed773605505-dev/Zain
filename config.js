@@ -1,11 +1,11 @@
-// الصق هنا إعدادات مشروع Firebase كما يعرضها موقع Firebase (من const إلى };)
 const firebaseConfig = {
-  apiKey: "PASTE_API_KEY",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: ""
+  apiKey: "AIzaSyCf0gRxjPZvYrlMB8AjyuhFxQm0fSpLBsk",
+  authDomain: "zain-aljanoub.firebaseapp.com",
+  projectId: "zain-aljanoub",
+  storageBucket: "zain-aljanoub.firebasestorage.app",
+  messagingSenderId: "464981690165",
+  appId: "1:464981690165:web:9e5980e9a646ab2dbc2e7c",
+  measurementId: "G-QLKKZD8TRR"
 };
-// لا تغيّر هذا السطر
+
 window.FIREBASE_CONFIG = firebaseConfig;
